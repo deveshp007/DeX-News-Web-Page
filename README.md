@@ -10,7 +10,7 @@ shows information/News of different types and different websites at one place.
 
 ## API 
 
-For API repository(Inshort Unofficial) [Click Me!](hhttps://github.com/cyberboysumanjay/Inshorts-News-API) 
+For API repository(Inshort Unofficial) [Click Me!](https://github.com/cyberboysumanjay/Inshorts-News-API) 
 <br>
 For official News-API [Click Me!](https://newsapi.org/)
 
